@@ -11,8 +11,11 @@ Let's be real... this is a bare-bones website to say the least. **But neverthele
   * CSE 100, 105
 * Ongoing
   * CSE 101, 110, 151A
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Exposure
+  * Languages
+   * Java, C, C++, Python, HTML, VBA, SystemVerilog, Assembly
+ * Software (Editors, IDEs, etc.)
+   * Atom, Eclipse, Quartus, Visual Studio, Vim, 
 
 ```markdown
 # Header 1
@@ -28,14 +31,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 **Bold** and _Italic_ and `Code` text
 
 ```
-![Image](https://www.nme.com/wp-content/uploads/2019/12/2AA3JDC.jpg)
-  IT'S A PLACE-HOLDER IMAGE CALM DOWN!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Me on the job or doing HW
 
-### Jekyll Themes
+What People See Me Doing | What I'm Actually Doing
+----------|------------
+![Image](https://i.imgflip.com/2ogpol.jpg) | ![Image](https://c1.wallpaperflare.com/preview/238/672/7/the-thinker-rodin-paris-sculpture.jpg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mbrown-2/mbrown-2.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+IT'S ALL PLACE-HOLDER FOR NOW!
 
 ### A Link to my [GitHub](https://github.com/mbrown-2/mbrown-2.github.io).
 Feel free to give it a peek. Thanks for stopping by!
