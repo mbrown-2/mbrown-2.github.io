@@ -7,6 +7,7 @@ Let's be real... this is a bare-bones website to say the least. **But neverthele
 ```markdown
 # Updates
 - This markdown bubble will serve as my personal space to write any notes about my current endeavors and changes to the website.
+- Current: Preparing external repository for future work at CodePath camp! Little to show for now; will update soon. https://github.com/mbrown-2/SimpleTodo
 ```
 
 [Jump to GitHub!](#a-link-to-my-github)
@@ -43,7 +44,5 @@ Feel free to give it a peek. Thanks for stopping by!
 - [ ] Attach CodePath project after camp's completion.
 - [ ] Customize colors and page themes.
 - [ ] Rename the page.
+- [ ] Improve the [README](README.md)
 - [X] Stay in school.
-
-
-This site was built using [GitHub Pages](https://pages.github.com/)
