@@ -41,6 +41,8 @@ Feel free to give it a peek. Thanks for stopping by!
 
 - [ ] Construct a more formal introduction.
 - [ ] Attach resume.
+- [ ] Attach more links (LinkedIn).
+- [ ] Attach email and work experience.
 - [ ] Attach CodePath project after camp's completion.
 - [ ] Customize colors and page themes.
 - [ ] Rename the page.
